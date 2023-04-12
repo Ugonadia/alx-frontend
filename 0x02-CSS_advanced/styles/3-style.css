@@ -3,7 +3,7 @@ scroll-behavior: smooth;
 }
 
 :root {
---color-primary: #d73953;
+--color-primary: #D73953;
 --color-black: #090909;
 --color-white: #ffffff;
 --color-light-grey: #f3f3f3;
@@ -11,7 +11,7 @@ scroll-behavior: smooth;
 --text-color: color-black;
 }
 body {
-  color: var(--text-color);
+  color : var(--text-color);
 } 
 a {
   color : var(--text-color); 
