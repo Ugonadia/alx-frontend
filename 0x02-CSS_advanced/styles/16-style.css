@@ -93,5 +93,5 @@ font-weight: var(--font-weight-bold);
 
 .container{
   width: 960px;
-  margin: 0;
+  margin: auto;
 }
