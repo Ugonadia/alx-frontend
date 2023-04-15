@@ -315,9 +315,9 @@
   
   .section-tagline {
     color: var(--section-tagline-color);
-    font-family: var(--section-tagline-font-family);
+    font-family: var(--font-family-title);
     text-transform: var(--section-tagline-transform);
-    font-weight: var(--section-tagline-font-weight);
+    font-weight: var(--font-weight-bold);
     margin: var(--section-tagline-margin);
   }
   
